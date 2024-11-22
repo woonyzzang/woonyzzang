@@ -29,7 +29,7 @@ https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%
 - [j-responsive-design-view](https://github.com/woonyzzang/j-responsive-design-view) - 반응형 웹 마크업 뷰 테스트 웹 어플리케이션
 - [j-core-editor](https://github.com/woonyzzang/j-core-editor) - 자바스크립트 코어 에디터 웹 어플리케이션
 - [j-html5-reference](https://github.com/woonyzzang/j-html5-reference) - HTML5 오픈 레퍼런스 웹 어플리케이션
-- [j-generator-css3j-generator-css3](https://github.com/woonyzzang/j-generator-css3) - CSS3 자동생성 웹 어플리케이션
+- [j-generator-css3](https://github.com/woonyzzang/j-generator-css3) - CSS3 자동생성 웹 어플리케이션
 - [j-memo](https://github.com/woonyzzang/j-memo) - 메모장 OS 어플리케이션
 - [j-core-module](https://github.com/woonyzzang/j-core-module) - 자바스크립트 코어 모듈 라이브러리
 
