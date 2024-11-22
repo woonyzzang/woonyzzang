@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **woonyzzang/woonyzzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Tech Stacks
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+
+## Projects
+
+- [j-cheat-sheet-api](https://github.com/woonyzzang/j-cheat-sheet-api) - 각종 프로그래밍 언어별 차트시트 관련 API 웹 어플리케이션 
+- [j-hiworks-mail-notifier](https://github.com/woonyzzang/j-hiworks-mail-notifier) - hiworks 이메일 알림 OS 어플리케이션
+- [j-responsive-design-view](https://github.com/woonyzzang/j-responsive-design-view) - 반응형 웹 마크업 뷰 테스트 웹 어플리케이션
+- [j-core-editor](https://github.com/woonyzzang/j-core-editor) - 자바스크립트 코어 에디터 웹 어플리케이션
+- [j-html5-reference](https://github.com/woonyzzang/j-html5-reference) - HTML5 오픈 레퍼런스 웹 어플리케이션
+- [j-generator-css3j-generator-css3](https://github.com/woonyzzang/j-generator-css3) - CSS3 자동생성 웹 어플리케이션
+- [j-memo](https://github.com/woonyzzang/j-memo) - 메모장 OS 어플리케이션
+- [j-core-module](https://github.com/woonyzzang/j-core-module) - 자바스크립트 코어 모듈 라이브러리
+
+## Posts
+
+- Blog: <https://woonyzzang.github.io>
+
+## Links
+
+- E-mail: <seungwoonjjang@gmail.com>
