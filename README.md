@@ -24,16 +24,20 @@ https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%
 
 ## Projects
 
-- [j-cheat-sheet-api](https://github.com/woonyzzang/j-cheat-sheet-api) - 각종 프로그래밍 언어별 차트시트 관련 API 웹 어플리케이션 
-- [j-hiworks-mail-notifier](https://github.com/woonyzzang/j-hiworks-mail-notifier) - hiworks 이메일 알림 OS 데스크탑 어플리케이션
-- [j-responsive-design-view](https://github.com/woonyzzang/j-responsive-design-view) - 반응형 웹 마크업 뷰 테스트 웹 어플리케이션
-- [j-core-editor](https://github.com/woonyzzang/j-core-editor) - 자바스크립트 코어 에디터 웹 어플리케이션
-- [j-html5-reference](https://github.com/woonyzzang/j-html5-reference) - HTML5 오픈 레퍼런스 웹 어플리케이션
-- [j-generator-css3](https://github.com/woonyzzang/j-generator-css3) - CSS3 자동생성 웹 어플리케이션
-- [j-memo](https://github.com/woonyzzang/j-memo) - 메모장 OS 데스크탑 어플리케이션
-- [j-core-module](https://github.com/woonyzzang/j-core-module) - 자바스크립트 코어 모듈 라이브러리
-- [docker-dev-stack](https://github.com/woonyzzang/docker-dev-stack) - Docker 로컬 개발 환경 테스트
-- [flutter-excel-template](https://github.com/woonyzzang/flutter-excel-template) - 다국어 언어별 번역 문구 파일 템플릿 형식 자동 변환 
+- **웹 애플리케이션(Web Applications)**
+  - [flutter-excel-template](https://github.com/woonyzzang/flutter-excel-template) - 다국어 언어별 번역 문구 파일 템플릿 형식 자동 변환 웹 어플리케이션 
+  - [j-core-editor](https://github.com/woonyzzang/j-core-editor) - 자바스크립트 코어 에디터 웹 어플리케이션
+  - [j-cheat-sheet-api](https://github.com/woonyzzang/j-cheat-sheet-api) - 각종 프로그래밍 언어별 차트시트 관련 API 웹 어플리케이션
+  - [j-responsive-design-view](https://github.com/woonyzzang/j-responsive-design-view) - 반응형 웹 마크업 뷰 테스트 웹 어플리케이션
+  - [j-html5-reference](https://github.com/woonyzzang/j-html5-reference) - HTML5 오픈 레퍼런스 웹 어플리케이션
+  - [j-generator-css3](https://github.com/woonyzzang/j-generator-css3) - CSS3 자동생성 웹 어플리케이션
+- **데스크탑 애플리케이션(Desktop Applications)**
+  - [j-hiworks-mail-notifier](https://github.com/woonyzzang/j-hiworks-mail-notifier) - hiworks 이메일 알림 OS 데스크탑 어플리케이션
+  - [j-memo](https://github.com/woonyzzang/j-memo) - 메모장 OS 데스크탑 어플리케이션
+- **라이브러리 및 모듈 (Libraries & Modules)**
+  - - [j-core-module](https://github.com/woonyzzang/j-core-module) - 자바스크립트 코어 모듈 라이브러리
+- **개발 도구 및 환경(Development Tools & Environments)**
+  - [docker-dev-stack](https://github.com/woonyzzang/docker-dev-stack) - Docker 로컬 개발 환경 테스트
 
 ## Posts
 
