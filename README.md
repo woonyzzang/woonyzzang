@@ -25,7 +25,7 @@ https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%
 ## Projects
 
 - **웹 애플리케이션 (Web Applications)**
-  - [flutter-excel-template](https://github.com/woonyzzang/flutter-excel-template) - 다국어 언어별 번역 문구 파일 템플릿 형식 자동 변환 웹 어플리케이션 
+  - [flutter-excel-template](https://github.com/woonyzzang/flutter-excel-template) - 엑셀 기반 다국어 번역 파일 자동 포맷 변환 웹 어플리케이션 
   - [j-core-editor](https://github.com/woonyzzang/j-core-editor) - 자바스크립트 코어 에디터 웹 어플리케이션
   - [j-cheat-sheet-api](https://github.com/woonyzzang/j-cheat-sheet-api) - 각종 프로그래밍 언어별 차트시트 관련 API 웹 어플리케이션
   - [j-responsive-design-view](https://github.com/woonyzzang/j-responsive-design-view) - 반응형 웹 마크업 뷰 테스트 웹 어플리케이션
