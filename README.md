@@ -32,7 +32,7 @@ https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%
 - [j-generator-css3](https://github.com/woonyzzang/j-generator-css3) - CSS3 자동생성 웹 어플리케이션
 - [j-memo](https://github.com/woonyzzang/j-memo) - 메모장 OS 데스크탑 어플리케이션
 - [j-core-module](https://github.com/woonyzzang/j-core-module) - 자바스크립트 코어 모듈 라이브러리
-- [docker-dev-stack](https://github.com/woonyzzang/docker-dev-stack) - Docker 환경에서 개발 스택 테스트
+- [docker-dev-stack](https://github.com/woonyzzang/docker-dev-stack) - Docker 로컬 개발 환경에서 개발 스택 테스트
 
 ## Posts
 
