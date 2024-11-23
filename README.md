@@ -35,7 +35,7 @@ https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%
   - [j-hiworks-mail-notifier](https://github.com/woonyzzang/j-hiworks-mail-notifier) - hiworks 이메일 알림 OS 데스크탑 어플리케이션
   - [j-memo](https://github.com/woonyzzang/j-memo) - 메모장 OS 데스크탑 어플리케이션
 - **라이브러리 및 모듈 (Libraries & Modules)**
-  - - [j-core-module](https://github.com/woonyzzang/j-core-module) - 자바스크립트 코어 모듈 라이브러리
+  - [j-core-module](https://github.com/woonyzzang/j-core-module) - 자바스크립트 코어 모듈 라이브러리
 - **개발 도구 및 환경 (Development Tools & Environments)**
   - [docker-dev-stack](https://github.com/woonyzzang/docker-dev-stack) - Docker 로컬 개발 환경 테스트
 
