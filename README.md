@@ -37,7 +37,7 @@ https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%
 - **라이브러리 및 모듈 (Libraries & Modules)**
   - [j-core-module](https://github.com/woonyzzang/j-core-module) - 자바스크립트 코어 모듈 라이브러리
 - **개발 도구 및 환경 (Development Tools & Environments)**
-  - [docker-dev-stack](https://github.com/woonyzzang/docker-dev-stack) - Docker 로컬 개발 환경 테스트
+  - [docker-dev-stack](https://github.com/woonyzzang/docker-dev-stack) - Docker 프론트엔드/백엔드 로컬 개발 환경 테스트
 
 ## Posts
 
